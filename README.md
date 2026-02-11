@@ -20,10 +20,28 @@
 
 ### 🔧 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-JS-blue?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+## 🚀 Tech Stack
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+---
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+---
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vite" />
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
 
 ---
 
