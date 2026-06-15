@@ -25,7 +25,7 @@ Front-End Developer passionate about crafting **modern, responsive, and high-per
 ### 🎨 Frontend  
 <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 
-### ⚙️ Backend  
+### ⚙️ Learning Backend Development  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
 ### 🛠️ Tools  
