@@ -23,7 +23,7 @@ Front-End Developer passionate about crafting **modern, responsive, and high-per
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=react,js,jquery,json,html,css" />
+<img src="https://skillicons.dev/icons?i=react,js,jquery,html,css" />
 
 
 
