@@ -62,5 +62,5 @@ Front-End Developer passionate about crafting **modern, responsive, and high-per
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: https://self-portfolio-sepia.vercel.app/
-- 💼 LinkedIn: Add your link
+- 💼 LinkedIn: https://www.linkedin.com/in/ashishkumar-frontend/
 - 📧 Email: himanashish446@gmail.com
